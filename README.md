@@ -1,2 +1,2 @@
-sic-sdk-cpp
+System in Cloud SDK for C++
 ===========
